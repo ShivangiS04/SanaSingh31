@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SanaSingh31
 - 👀 I aspire to become a full stack developer
-- 🌱 I’m currently learning about open source and java
+- 🌱 I’m currently learning java and about open source community
 
 
 <!---
