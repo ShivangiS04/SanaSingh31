@@ -7,6 +7,8 @@
 
 - 👯 I’m looking to collaborate on **WebDev projects**
 
+- - 📫 How to reach me **sanasingh3102@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sana-singh-77b29b236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sana-singh-77b29b236" height="30" width="40" /></a>
